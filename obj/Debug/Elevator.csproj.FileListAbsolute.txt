@@ -1,0 +1,7 @@
+C:\Users\ENJOY\Desktop\Mzamo_Elevator\Elevator\bin\Debug\Elevator.exe.config
+C:\Users\ENJOY\Desktop\Mzamo_Elevator\Elevator\bin\Debug\Elevator.exe
+C:\Users\ENJOY\Desktop\Mzamo_Elevator\Elevator\bin\Debug\Elevator.pdb
+C:\Users\ENJOY\Desktop\Mzamo_Elevator\Elevator\obj\Debug\Elevator.csproj.AssemblyReference.cache
+C:\Users\ENJOY\Desktop\Mzamo_Elevator\Elevator\obj\Debug\Elevator.csproj.CoreCompileInputs.cache
+C:\Users\ENJOY\Desktop\Mzamo_Elevator\Elevator\obj\Debug\Elevator.exe
+C:\Users\ENJOY\Desktop\Mzamo_Elevator\Elevator\obj\Debug\Elevator.pdb
